@@ -1,0 +1,79 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Feature", "Feature", "{E444EE33-F079-44D8-A88F-8694D61C72C3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Foundation", "Foundation", "{845F33DF-D292-4F65-9E5C-F1D8CD4623D1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Project", "Project", "{9A8B3286-5CE7-4A9E-9ABA-C9DCF7DC2078}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Products", "Products", "{058CE2B4-59B0-4708-9164-AD5AEA0B2B49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Globags.Feature.Products", "back-end\Feature\Products\code\Globags.Feature.Products\Globags.Feature.Products.csproj", "{805B1413-DEE7-49F4-AE0D-1F80A3A44E82}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{7D91ADA1-86C5-4E6A-95AD-929C58B7D427}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Website", "Website", "{4225806D-2E5C-499F-9F17-5D5FB16AAB13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Globags.Project.Website", "back-end\Project\Website\code\Globags.Project.Website\Globags.Project.Website.csproj", "{986E3896-F653-4BFC-A4C6-0B2B55249751}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Serialization", "Serialization", "{12D70EFD-D338-4318-A3F3-FDBEE03A6070}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Search", "Search", "{FEE4695E-4C0F-4670-8331-2A4BAC379D15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Globags.Project.Common", "back-end\Project\Common\Globags.Project.Common\Globags.Project.Common.csproj", "{EF076F07-0EE1-4D4B-A608-3FB23C1A71D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Globags.Foundation.Serialization", "back-end\Foundation\Serialization\Globags.Foundation.Serialization\Globags.Foundation.Serialization.csproj", "{A54A8E72-40B7-44B9-9574-AC667AF963E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Globags.Foundation.Search", "back-end\Foundation\Search\Globags.Foundation.Search\Globags.Foundation.Search.csproj", "{6461CA75-CD2B-4BB4-BDA5-35FDC5DF4580}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Configurations", "Configurations", "{DE07A56F-3CD0-43E4-A1D7-98A59437145F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{805B1413-DEE7-49F4-AE0D-1F80A3A44E82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{805B1413-DEE7-49F4-AE0D-1F80A3A44E82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{805B1413-DEE7-49F4-AE0D-1F80A3A44E82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{805B1413-DEE7-49F4-AE0D-1F80A3A44E82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{986E3896-F653-4BFC-A4C6-0B2B55249751}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{986E3896-F653-4BFC-A4C6-0B2B55249751}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{986E3896-F653-4BFC-A4C6-0B2B55249751}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{986E3896-F653-4BFC-A4C6-0B2B55249751}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF076F07-0EE1-4D4B-A608-3FB23C1A71D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF076F07-0EE1-4D4B-A608-3FB23C1A71D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF076F07-0EE1-4D4B-A608-3FB23C1A71D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF076F07-0EE1-4D4B-A608-3FB23C1A71D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A54A8E72-40B7-44B9-9574-AC667AF963E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A54A8E72-40B7-44B9-9574-AC667AF963E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A54A8E72-40B7-44B9-9574-AC667AF963E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A54A8E72-40B7-44B9-9574-AC667AF963E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6461CA75-CD2B-4BB4-BDA5-35FDC5DF4580}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6461CA75-CD2B-4BB4-BDA5-35FDC5DF4580}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6461CA75-CD2B-4BB4-BDA5-35FDC5DF4580}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6461CA75-CD2B-4BB4-BDA5-35FDC5DF4580}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{058CE2B4-59B0-4708-9164-AD5AEA0B2B49} = {E444EE33-F079-44D8-A88F-8694D61C72C3}
+		{805B1413-DEE7-49F4-AE0D-1F80A3A44E82} = {058CE2B4-59B0-4708-9164-AD5AEA0B2B49}
+		{7D91ADA1-86C5-4E6A-95AD-929C58B7D427} = {9A8B3286-5CE7-4A9E-9ABA-C9DCF7DC2078}
+		{4225806D-2E5C-499F-9F17-5D5FB16AAB13} = {9A8B3286-5CE7-4A9E-9ABA-C9DCF7DC2078}
+		{986E3896-F653-4BFC-A4C6-0B2B55249751} = {4225806D-2E5C-499F-9F17-5D5FB16AAB13}
+		{12D70EFD-D338-4318-A3F3-FDBEE03A6070} = {845F33DF-D292-4F65-9E5C-F1D8CD4623D1}
+		{FEE4695E-4C0F-4670-8331-2A4BAC379D15} = {845F33DF-D292-4F65-9E5C-F1D8CD4623D1}
+		{EF076F07-0EE1-4D4B-A608-3FB23C1A71D5} = {7D91ADA1-86C5-4E6A-95AD-929C58B7D427}
+		{A54A8E72-40B7-44B9-9574-AC667AF963E5} = {12D70EFD-D338-4318-A3F3-FDBEE03A6070}
+		{6461CA75-CD2B-4BB4-BDA5-35FDC5DF4580} = {FEE4695E-4C0F-4670-8331-2A4BAC379D15}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B7AE59B-DBFA-4CA8-92FC-F35BD462DC3B}
+	EndGlobalSection
+EndGlobal
