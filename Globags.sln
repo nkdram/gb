@@ -29,7 +29,44 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Globags.Foundation.Serializ
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Globags.Foundation.Search", "back-end\Foundation\Search\Globags.Foundation.Search\Globags.Foundation.Search.csproj", "{6461CA75-CD2B-4BB4-BDA5-35FDC5DF4580}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Configurations", "Configurations", "{DE07A56F-3CD0-43E4-A1D7-98A59437145F}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".build", ".build", "{9D5EFEBB-1F7D-4620-9701-E1A02FE54CBD}"
+	ProjectSection(SolutionItems) = preProject
+		Directory.Build.props = Directory.Build.props
+		Directory.Build.targets = Directory.Build.targets
+		nuget.config = nuget.config
+		.build\Solution.config = .build\Solution.config
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".docker", ".docker", "{3B8BD733-70AC-41C0-B261-1B5F0C441F99}"
+	ProjectSection(SolutionItems) = preProject
+		.env = .env
+		Clean-Data.ps1 = Clean-Data.ps1
+		docker-compose.yml = docker-compose.yml
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".setup-guide", ".setup-guide", "{4555190C-894D-4AE1-9C73-3D3FD8428E26}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "props", "props", "{8DE117A9-CA35-4EE9-9F88-62717B1E8B46}"
+	ProjectSection(SolutionItems) = preProject
+		.build\props\Website.BuildProperties.props = .build\props\Website.BuildProperties.props
+		.build\props\Website.PackageReferences.props = .build\props\Website.PackageReferences.props
+		.build\props\Website.ProjectContent.props = .build\props\Website.ProjectContent.props
+		.build\props\Website.Publishing.props = .build\props\Website.Publishing.props
+		.build\props\Website.Publishing.props.user.example = .build\props\Website.Publishing.props.user.example
+		.build\props\Website.References.props = .build\props\Website.References.props
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "targets", "targets", "{64B75F3C-54F4-4881-B081-7E8C9177AB10}"
+	ProjectSection(SolutionItems) = preProject
+		.build\targets\Website.AutoPublish.targets = .build\targets\Website.AutoPublish.targets
+		.build\targets\Website.DoNotPublishAssembly.props = .build\targets\Website.DoNotPublishAssembly.props
+		.build\targets\Website.PublishSingleItem.targets = .build\targets\Website.PublishSingleItem.targets
+		.build\targets\Website.RemoveDoNotPublishAssembly.targets = .build\targets\Website.RemoveDoNotPublishAssembly.targets
+		.build\targets\Website.TransformXml.targets = .build\targets\Website.TransformXml.targets
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -72,6 +109,8 @@ Global
 		{EF076F07-0EE1-4D4B-A608-3FB23C1A71D5} = {7D91ADA1-86C5-4E6A-95AD-929C58B7D427}
 		{A54A8E72-40B7-44B9-9574-AC667AF963E5} = {12D70EFD-D338-4318-A3F3-FDBEE03A6070}
 		{6461CA75-CD2B-4BB4-BDA5-35FDC5DF4580} = {FEE4695E-4C0F-4670-8331-2A4BAC379D15}
+		{8DE117A9-CA35-4EE9-9F88-62717B1E8B46} = {9D5EFEBB-1F7D-4620-9701-E1A02FE54CBD}
+		{64B75F3C-54F4-4881-B081-7E8C9177AB10} = {9D5EFEBB-1F7D-4620-9701-E1A02FE54CBD}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1B7AE59B-DBFA-4CA8-92FC-F35BD462DC3B}
