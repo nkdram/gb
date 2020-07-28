@@ -8,7 +8,7 @@ module.exports = {
     sassSourceMap: false,
     // Please configure
     serverOptions: {
-        server: 'http://localhost:44001', //need to be changed
+        server: 'https://globags.sc.cms', //need to be changed
         removeScriptPath: '/-/script/v2/master/RemoveMedia',
         uploadScriptPath: '/sitecore modules/PowerShell/Services/RemoteScriptCall.ashx',
         updateTemplatePath: '/-/script/v2/master/ChangeTemplate',

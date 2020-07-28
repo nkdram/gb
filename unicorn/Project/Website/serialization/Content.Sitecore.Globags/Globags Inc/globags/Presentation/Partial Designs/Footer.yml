@@ -1,0 +1,58 @@
+﻿---
+ID: "38cd17aa-0706-4921-83b8-efa163767252"
+Parent: "dfbc128f-4a75-4a15-b693-fc66b56b063c"
+Template: "f4b3f2e4-ada6-4abd-9636-24996456daea"
+Path: /sitecore/content/Globags Inc/globags/Presentation/Partial Designs/Footer
+DB: master
+SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: footer
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{41B13FAB-CCC8-4542-8B09-EC452272E5B8}"
+          p:before="*"
+          s:id="{9D3BA81A-EECE-4B5A-9862-0239A9D53EEC}"
+          s:par="NavigationRoot&amp;LevelFrom=%7B1BB88840-5FB3-4353-AD8D-81136F6FF75A%7D&amp;LevelTo=%7B1BB88840-5FB3-4353-AD8D-81136F6FF75A%7D&amp;Filter=%7B61BD64D6-809E-40AE-9297-2724A19329B3%7D&amp;Flattened=1&amp;AddRoot&amp;NavigationFieldNames&amp;Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B3FB5D3CC-8F98-43FC-B442-4599836BC6CC%7D&amp;Styles=%7BDA404277-EC55-4317-907B-1EA998E4AEA4%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=4"
+          s:ph="/footer/row-2-1" />
+        <r
+          uid="{A42BD481-AFA0-4F2A-A81D-1F6FF122104E}"
+          p:after="r[@uid='{41B13FAB-CCC8-4542-8B09-EC452272E5B8}']"
+          s:ds="local:/Data/Image 1"
+          s:id="{4A0D4E0B-BC20-4F2E-BD84-A4BD35834E86}"
+          s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B7015B56C-DC27-4438-986E-1459E49222BF%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=3"
+          s:ph="/footer/row-1-1/column-1-2" />
+        <r
+          uid="{AB3FF8E2-69DC-423D-846A-8CA9F1E0F3B9}"
+          p:after="r[@uid='{A42BD481-AFA0-4F2A-A81D-1F6FF122104E}']"
+          s:ds=""
+          s:id="{C25766C8-9AFD-4D28-87FE-147774F6806D}"
+          s:par="ColumnWidth1=%7B9AD9D6FB-28FC-43C5-8DA4-4A6A63CE802F%7D%7C%7BDF21609B-2222-4A99-BE2B-0EBA22AD89AD%7D&amp;ColumnWidth2=%7B9AD9D6FB-28FC-43C5-8DA4-4A6A63CE802F%7D%7C%7BA6DCFE3D-39D5-40F4-867C-0C7517411562%7D&amp;ColumnWidth3&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;Reset Caching Options&amp;SplitterSize=2&amp;EnabledPlaceholders=1%2C2&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles8&amp;DynamicPlaceholderId=2"
+          s:ph="/footer/row-1-1" />
+        <r
+          uid="{4ADDC160-05E0-413E-A6C9-87A255910768}"
+          p:after="*[1=2]"
+          s:id="{2DA9B139-FB9C-4FD7-BE84-CB066B2D7CC3}"
+          s:par="Reset Caching Options&amp;SplitterSize=2&amp;EnabledPlaceholders=1%2C2&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles8&amp;DynamicPlaceholderId=1"
+          s:ph="footer" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200728T191928Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
