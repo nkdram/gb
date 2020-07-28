@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net472</TargetFramework>
+	<RootNamespace>Globags.Foundation.Serialization</RootNamespace>
+    <AssemblyName>Globags.Foundation.Serialization</AssemblyName>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Sitecore.Kernel" Version="[9.3.0]">
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Unicorn" Version="4.1.1" />
+    <PackageReference Include="Unicorn.Roles" Version="4.1.1" />
+  </ItemGroup>
+</Project>

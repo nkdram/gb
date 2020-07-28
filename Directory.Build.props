@@ -11,10 +11,10 @@ Publish.Properties.props
 -->
 
 <Project>
-  <Import Project="build/props/Website.Publishing.props"  />
-  <Import Project="build/props/Website.Publishing.props.user" Condition="exists('$(SolutionDir)/Build/props/Website.Publishing.props.user')" />
-  <Import Project="build/props/Website.BuildProperties.props" />
-  <Import Project="build/props/Website.PackageReferences.props" />
-  <Import Project="build/props/Website.References.props"  />
-  <Import Project="build/props/Website.ProjectContent.props" />
+  <Import Project=".build/props/Website.Publishing.props"  />
+  <Import Project=".build/props/Website.Publishing.props.user" Condition="exists('$(SolutionDir)/.build/props/Website.Publishing.props.user')" />
+  <Import Project=".build/props/Website.BuildProperties.props" />
+  <Import Project=".build/props/Website.PackageReferences.props" />
+  <Import Project=".build/props/Website.References.props"  />
+  <Import Project=".build/props/Website.ProjectContent.props" />
 </Project>

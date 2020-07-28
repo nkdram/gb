@@ -8,7 +8,7 @@ RemoveDoNotPublishAssembly.targets
 -->
 
 <Project>
-  <Import Project="$(SolutionDir)/Build/targets/Website.DoNotPublishAssembly.props"  />
+  <Import Project="$(SolutionDir)/.build/targets/Website.DoNotPublishAssembly.props"  />
 
   <Target Name="RemoveDoNotPublishAssembly" AfterTargets="ResolveReferences" Condition="$(LegacyRemoveStandardReferenceAssemblies) == 'true'">
     <ItemGroup>
