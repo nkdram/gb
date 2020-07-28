@@ -1,5 +1,5 @@
 #footer {
-  background-color: #232323;
+  background-color: #19110B;
   padding-top: 12px;
   padding-bottom: 12px;
   box-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.1);
@@ -18,12 +18,12 @@
 
 #footer::before {
   content: "";
-  width: 100vw;
+  width: inherit;
   height: 4px;
   position: absolute;
   top: 0px;
   left: 0px;
-  background-color: #fe2911;
+  background-color: #DEDEE0;
 }
 
 #footer::after {

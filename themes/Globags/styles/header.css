@@ -1,5 +1,5 @@
 #header {
-  background-color: #232323;
+  background-color: #FFFFFF;
   padding-top: 12px;
   padding-bottom: 12px;
   box-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.1);
@@ -35,6 +35,7 @@
 #header .row-splitter .column-splitter > div:first-child .row .component-content nav a {
   color: #fff;
 }
+
 
 #header .row-splitter .column-splitter > div:first-child .row .component-content nav a:focus, #header .row-splitter .column-splitter > div:first-child .row .component-content nav a:hover {
   color: #19a5a2;
