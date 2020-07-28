@@ -1,0 +1,25 @@
+﻿---
+ID: "c35bb089-5c2d-468a-babd-bc17fb221234"
+Parent: "cbd55d99-7f85-4f10-9e3a-e1f84489cb90"
+Template: "25c452a7-7d5a-4b4e-b21d-6d2e7be46c0e"
+Path: /sitecore/content/Globags Inc/globags/Home
+DB: master
+BranchID: "b90549b5-c997-4d6b-b102-c9ab82528974"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{92EB9EFB-88D4-4089-82BE-AAD92D4FA24E}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200728T132942Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: globags
+    - ID: "ba792e7c-7352-419a-8dc9-65674c67e6b6"
+      Hint: Title
+      Value: globags

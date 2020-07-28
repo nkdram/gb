@@ -1,0 +1,14 @@
+﻿---
+ID: "df0c88a4-602a-4ef2-a095-d42917633a55"
+Parent: "d232353f-a02c-4570-bc34-43770a8d5e5f"
+Template: "af1cc1af-99cc-4e3c-9a26-3ead62890fce"
+Path: /sitecore/content/Globags Inc/globags/Data/Events
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200728T133040Z

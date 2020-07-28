@@ -1,0 +1,14 @@
+﻿---
+ID: "f43dd402-81dd-424a-b534-dabd3f689b06"
+Parent: "d232353f-a02c-4570-bc34-43770a8d5e5f"
+Template: "df608f99-aaa5-428d-a4ef-ca92e5f291d3"
+Path: /sitecore/content/Globags Inc/globags/Data/Flashes
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200728T133117Z

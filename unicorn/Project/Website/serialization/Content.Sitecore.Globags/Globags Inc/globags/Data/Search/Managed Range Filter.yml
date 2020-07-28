@@ -1,0 +1,19 @@
+﻿---
+ID: "ade491e7-e3e3-4eeb-8039-ba85db1f4e49"
+Parent: "61f00b4e-a7b3-4fa0-be68-bcec6b5ab579"
+Template: "670a7e82-78a6-4b25-a710-1e2e8f72515a"
+Path: /sitecore/content/Globags Inc/globags/Data/Search/Managed Range Filter
+DB: master
+BranchID: "957565a0-bf0d-4f8b-bf2c-4a8f40ec9080"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{78047717-7432-41B0-B4A7-5497250D21E6}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200728T133256Z

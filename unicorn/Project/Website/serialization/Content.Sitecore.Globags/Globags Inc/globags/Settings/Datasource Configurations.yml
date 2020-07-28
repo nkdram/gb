@@ -1,0 +1,14 @@
+﻿---
+ID: "53ff884b-dc8b-47cb-9691-86f6e23d72db"
+Parent: "6b30043b-5d50-430f-8591-1c8ea966af4d"
+Template: "f86fe270-00a4-492f-bfaf-5bf27e40ce13"
+Path: /sitecore/content/Globags Inc/globags/Settings/Datasource Configurations
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200728T133000Z

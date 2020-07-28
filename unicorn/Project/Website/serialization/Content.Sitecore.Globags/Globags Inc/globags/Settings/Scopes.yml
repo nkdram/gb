@@ -1,0 +1,14 @@
+﻿---
+ID: "57b72368-2fe4-4563-95ef-e388f6e0181d"
+Parent: "6b30043b-5d50-430f-8591-1c8ea966af4d"
+Template: "44936c95-bca9-4fb3-9d98-2066a5fbbb4d"
+Path: /sitecore/content/Globags Inc/globags/Settings/Scopes
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200728T133210Z

@@ -1,0 +1,14 @@
+﻿---
+ID: "4ebf7fa7-bff5-4202-8175-67ccd38023a4"
+Parent: "d232353f-a02c-4570-bc34-43770a8d5e5f"
+Template: "e854b5b7-510c-4b65-97f7-d483a9b54398"
+Path: /sitecore/content/Globags Inc/globags/Data/Snippets
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200728T133036Z

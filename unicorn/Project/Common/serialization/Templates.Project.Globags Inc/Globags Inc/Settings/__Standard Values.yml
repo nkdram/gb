@@ -1,0 +1,14 @@
+﻿---
+ID: "2cc91445-f97d-45e9-90c1-1453b9c78005"
+Parent: "ca875413-045b-4fb5-b5ff-3cf09ba8b6c3"
+Template: "ca875413-045b-4fb5-b5ff-3cf09ba8b6c3"
+Path: /sitecore/templates/Project/Globags Inc/Settings/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200728T132718Z

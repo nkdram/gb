@@ -1,0 +1,22 @@
+﻿---
+ID: "aa7d930e-0f2a-465a-99bf-6b2f560d4e10"
+Parent: "ee309544-cddd-4d6a-a2be-795bd2138b02"
+Template: "ee309544-cddd-4d6a-a2be-795bd2138b02"
+Path: /sitecore/templates/Project/Globags Inc/Partial Designs/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {01B598AE-BDD0-4F27-8576-2B6E6534F4A7}
+    {F4B3F2E4-ADA6-4ABD-9636-24996456DAEA}
+    {C2A8E276-1757-4957-9DD5-8669B79FD80D}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200728T132717Z

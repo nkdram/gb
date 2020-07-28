@@ -1,0 +1,14 @@
+﻿---
+ID: "4400f9ea-982c-4fa3-af0b-78e94170a860"
+Parent: "4a7a5545-9a11-44af-bf78-43984d3d8b8d"
+Template: "4a7a5545-9a11-44af-bf78-43984d3d8b8d"
+Path: /sitecore/templates/Project/Globags Inc/Tenant/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200728T132717Z

@@ -1,0 +1,25 @@
+﻿---
+ID: "5101f1ec-4cad-4a4d-9a26-8c3ec172f852"
+Parent: "81794974-2554-4790-85d8-efe58ba2ac97"
+Template: "81794974-2554-4790-85d8-efe58ba2ac97"
+Path: /sitecore/templates/Project/Globags Inc/Page Designs/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {AC5230EE-0D2B-477E-B51B-289331B37A85}
+    {B6FA51E2-3052-4F38-BA00-D8D6661C5042}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200728T132718Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

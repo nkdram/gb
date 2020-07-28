@@ -1,0 +1,19 @@
+﻿---
+ID: "bb77613c-a3a2-47bd-8098-463e6b769147"
+Parent: "61f00b4e-a7b3-4fa0-be68-bcec6b5ab579"
+Template: "3cb0d374-029b-4eeb-ba8b-ed75b0c25188"
+Path: /sitecore/content/Globags Inc/globags/Data/Search/Page Selector
+DB: master
+BranchID: "957565a0-bf0d-4f8b-bf2c-4a8f40ec9080"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{30D2D0BD-EAA7-4517-A076-94AD9D78A92A}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200728T133256Z

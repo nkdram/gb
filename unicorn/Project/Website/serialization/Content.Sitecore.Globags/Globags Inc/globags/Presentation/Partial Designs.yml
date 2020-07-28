@@ -1,0 +1,19 @@
+﻿---
+ID: "dfbc128f-4a75-4a15-b693-fc66b56b063c"
+Parent: "c1820105-7171-48fb-8bf1-b2d5333ec698"
+Template: "ee309544-cddd-4d6a-a2be-795bd2138b02"
+Path: /sitecore/content/Globags Inc/globags/Presentation/Partial Designs
+DB: master
+BranchID: "b90549b5-c997-4d6b-b102-c9ab82528974"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{1DA4DAC3-7948-407B-A30D-D369913CF4F9}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200728T132942Z

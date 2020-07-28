@@ -1,0 +1,14 @@
+﻿---
+ID: "3b30bd45-5279-4294-b840-d95325614733"
+Parent: "d232353f-a02c-4570-bc34-43770a8d5e5f"
+Template: "1ef29b63-5b98-463c-b3c8-66dfe99bd641"
+Path: /sitecore/content/Globags Inc/globags/Data/Tabs
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200728T133036Z

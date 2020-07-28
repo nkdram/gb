@@ -1,0 +1,19 @@
+﻿---
+ID: "e1e12a7e-1166-47fd-83b2-65a33e06d2c6"
+Parent: "61f00b4e-a7b3-4fa0-be68-bcec6b5ab579"
+Template: "8d85d00e-ecde-4b9a-a53c-0c01d60274e4"
+Path: /sitecore/content/Globags Inc/globags/Data/Search/Date Filter
+DB: master
+BranchID: "957565a0-bf0d-4f8b-bf2c-4a8f40ec9080"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{B458C91A-D461-4601-BAA1-F21DB3EF9837}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200728T133255Z
