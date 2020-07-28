@@ -26,6 +26,7 @@
   background-color: #DEDEE0;
 }
 
+
 #footer::after {
   content: "";
   width: 200px;
