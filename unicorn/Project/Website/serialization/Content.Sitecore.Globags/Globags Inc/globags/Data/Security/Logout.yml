@@ -1,0 +1,14 @@
+﻿---
+ID: "93b13371-ed17-4815-9b18-3c1e09cfa03d"
+Parent: "eb30198f-db47-431f-b103-e8169a54f719"
+Template: "abed54dc-4f78-40dd-ac56-2289c9c849d8"
+Path: /sitecore/content/Globags Inc/globags/Data/Security/Logout
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200731T001548Z

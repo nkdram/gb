@@ -1,8 +1,8 @@
 ﻿---
-ID: "5a6813b3-4443-4de5-a8ac-bc49f7598b5f"
-Parent: "b9f1165e-36e3-4c6c-b183-a6a3b81b781e"
+ID: "d6cd7d36-370d-415a-b587-51f6b9d83b02"
+Parent: "6a90b54e-5117-423e-b32a-c2dda4db54ab"
 Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
-Path: /sitecore/media library/Themes/Globags Inc/globags/Globags/fonts/OpenSans
+Path: /sitecore/media library/Feature/Globags Inc/Dealer
 DB: master
 Languages:
 - Language: en
@@ -11,7 +11,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20160624T115402Z
+      Value: 20200730T221759Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |

@@ -1,0 +1,33 @@
+﻿---
+ID: "486e06ea-0a8e-4621-ad16-eeaabf7201f9"
+Parent: "c35bb089-5c2d-468a-babd-bc17fb221234"
+Template: "235f17ac-61ec-448d-8957-1cf658797b50"
+Path: /sitecore/content/Globags Inc/globags/Home/Contact Us
+DB: master
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Type: Checklist
+  Value: |
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0ea6a596-64c1-4965-8dc4-9ab3e93985a5"
+      Hint: Page Title
+      Value: Contact Us
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200731T000841Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Contact Us
+    - ID: "ba792e7c-7352-419a-8dc9-65674c67e6b6"
+      Hint: Title
+      Value: Contact Us

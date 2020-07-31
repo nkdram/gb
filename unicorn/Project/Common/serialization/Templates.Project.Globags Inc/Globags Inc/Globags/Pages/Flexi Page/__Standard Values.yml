@@ -1,0 +1,28 @@
+﻿---
+ID: "6ff818c7-f88d-4830-a82b-7c3355c32943"
+Parent: "235f17ac-61ec-448d-8957-1cf658797b50"
+Template: "235f17ac-61ec-448d-8957-1cf658797b50"
+Path: /sitecore/templates/Project/Globags Inc/Globags/Pages/Flexi Page/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "577f1689-7de4-4ad2-a15f-7fdc1759285f"
+    Hint: __Long description
+    Value: Standard Page type in Globags
+  - ID: "9541e67d-ce8c-4225-803d-33f7f29f09ef"
+    Hint: __Short description
+    Value: Default Site Page type
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0ea6a596-64c1-4965-8dc4-9ab3e93985a5"
+      Hint: Page Title
+      Value: $name
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200730T211802Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

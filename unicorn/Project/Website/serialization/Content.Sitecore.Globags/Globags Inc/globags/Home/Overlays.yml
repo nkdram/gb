@@ -4,6 +4,10 @@ Parent: "c35bb089-5c2d-468a-babd-bc17fb221234"
 Template: "d7bffbe5-dad8-4137-85de-28013313f72f"
 Path: /sitecore/content/Globags Inc/globags/Home/Overlays
 DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 500
 Languages:
 - Language: en
   Versions:

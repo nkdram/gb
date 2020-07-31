@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net472</TargetFramework>
+	<RootNamespace>Globags.Foundation.Rules</RootNamespace>
+    <AssemblyName>Globags.Foundation.Rules</AssemblyName>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Sitecore.Buckets" Version="9.3.0" />
+    <PackageReference Include="Sitecore.Kernel" Version="[9.3.0]">
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Config\" />
+  </ItemGroup>
+</Project>

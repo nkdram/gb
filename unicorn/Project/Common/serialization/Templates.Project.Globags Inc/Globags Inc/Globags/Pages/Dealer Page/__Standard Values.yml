@@ -1,0 +1,25 @@
+﻿---
+ID: "c3fc80ff-f4c1-4e21-ae13-39b913c70a5c"
+Parent: "0befe816-abed-4a40-874d-61e62ce57d53"
+Template: "0befe816-abed-4a40-874d-61e62ce57d53"
+Path: /sitecore/templates/Project/Globags Inc/Globags/Pages/Dealer Page/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "577f1689-7de4-4ad2-a15f-7fdc1759285f"
+    Hint: __Long description
+    Value: Displays all the information related to a Dealer
+  - ID: "9541e67d-ce8c-4225-803d-33f7f29f09ef"
+    Hint: __Short description
+    Value: Dealer's Page
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200730T214652Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
