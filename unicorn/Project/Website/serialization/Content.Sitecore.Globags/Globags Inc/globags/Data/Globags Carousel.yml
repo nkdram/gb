@@ -1,0 +1,14 @@
+﻿---
+ID: "e31bb375-8c40-4a1a-800f-30724e6fc468"
+Parent: "d232353f-a02c-4570-bc34-43770a8d5e5f"
+Template: "e8df615b-6819-469f-94e7-5f9852b3aa2d"
+Path: /sitecore/content/Globags Inc/globags/Data/Globags Carousel
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200731T220410Z

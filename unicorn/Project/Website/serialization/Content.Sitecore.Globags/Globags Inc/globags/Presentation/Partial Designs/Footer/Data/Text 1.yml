@@ -1,0 +1,21 @@
+﻿---
+ID: "202b27f9-1c69-4451-9c1c-38d3b07bc222"
+Parent: "db6ae6bb-dda1-4b3d-8143-5936bfd1057a"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: /sitecore/content/Globags Inc/globags/Presentation/Partial Designs/Footer/Data/Text 1
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200731T235442Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc quis dolor quis erat sollicitudin consequat ac sed nunc. Maecenas ultrices quis justo eget aliquet. .

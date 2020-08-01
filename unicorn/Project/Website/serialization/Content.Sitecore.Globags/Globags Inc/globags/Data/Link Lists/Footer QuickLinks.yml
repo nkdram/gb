@@ -1,0 +1,14 @@
+﻿---
+ID: "9b8238c8-947e-4bce-95b1-626228659ade"
+Parent: "025f212b-ceb0-4d96-bb8b-556f20b7ff32"
+Template: "2fb317e5-509a-4be9-b348-bf79168665c9"
+Path: /sitecore/content/Globags Inc/globags/Data/Link Lists/Footer QuickLinks
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200731T234545Z

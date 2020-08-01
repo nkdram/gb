@@ -4,6 +4,11 @@ Parent: "c1820105-7171-48fb-8bf1-b2d5333ec698"
 Template: "39a9ed72-407d-4440-ba50-30956834794e"
 Path: /sitecore/content/Globags Inc/globags/Presentation/Available Renderings
 DB: master
+SharedFields:
+- ID: "878c9a33-e760-4cb8-aad3-b2309383bf10"
+  Hint: Group renderings in sections
+  Type: Checkbox
+  Value: 1
 Languages:
 - Language: en
   Versions:

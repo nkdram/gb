@@ -1,0 +1,20 @@
+﻿---
+ID: "2139b495-dbd2-4266-ba16-48df55da48fb"
+Parent: "6b3084c9-fea2-4c09-baeb-d038331cb54a"
+Template: "333fb57c-5bc0-4be9-aef2-fa0569bb93de"
+Path: /sitecore/content/Globags Inc/globags/Home/Products/Product 3
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200801T000201Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Product 3
+    - ID: "ba792e7c-7352-419a-8dc9-65674c67e6b6"
+      Hint: Title
+      Value: Product 3

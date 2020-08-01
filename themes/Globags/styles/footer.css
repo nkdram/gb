@@ -1,49 +1,62 @@
 #footer {
-  background-color: #19110B;
-  padding-top: 12px;
-  padding-bottom: 12px;
-  box-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.1);
-  position: relative;
-  min-height: 250px;
+  text-align: center;
+  background: #767676;
+  padding: 40px;
+}
+#footer>.row {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  -webkit-box-pack: center;
-  -ms-flex-pack: center;
-  justify-content: center;
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
 }
 
-#footer::before {
-  content: "";
-  width: inherit;
-  height: 4px;
-  position: absolute;
-  top: 0px;
-  left: 0px;
-  background-color: #DEDEE0;
-}
-
-
-#footer::after {
-  content: "";
-  width: 200px;
-  height: 200px;
-  position: absolute;
-  background-image: url(../images/logos/sitecore-logo-red.svg);
-  opacity: 0.1;
-  top: 50%;
-  left: 50%;
-  -webkit-transform: translate(-50%, -50%);
-  -ms-transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);
-}
-
-#footer .rich-text {
-  font-size: 1em;
-  font-weight: lighter;
+footer #footer .link-list ul li a {
+  padding: 0;
+  font-weight: normal;
   color: #fff;
-  opacity: 0.5;
+  text-decoration: none;
+}
+
+#footer ul li .field-link a {
+  padding-left: 0;
+  padding-right: 0;
+  color: #333;
+  font-weight: normal;
+}
+
+footer #footer .link-list ul li {
+  margin: 10px 0;
+  font-size: 15px;
+  list-style: none;
+}
+
+#footer ul li {
+  -webkit-box-flex: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+}
+
+footer #footer h3 {
+  margin-top: 0;
+  padding: 10px 0 0;
+  background: none;
+  font-size: 18px;
+  font-weight: bold;
+  border: none;
+  color: #fff;
+  text-align: center;
+}
+
+#footer .rich-text .component-content {
+  color: #fff;
+  font-size: 17px;
+  text-align: center;
+}
+
+#footer ul li .field-link a:before {
+  content: none;
 }

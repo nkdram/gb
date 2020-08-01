@@ -1,0 +1,14 @@
+﻿---
+ID: "3e70cbfb-d0c7-4f16-9e52-1a7fe632b902"
+Parent: "d232353f-a02c-4570-bc34-43770a8d5e5f"
+Template: "fa4ed6a1-1f42-45a1-9e3f-765a6a75e1c7"
+Path: /sitecore/content/Globags Inc/globags/Data/Globags Promo
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200731T220414Z

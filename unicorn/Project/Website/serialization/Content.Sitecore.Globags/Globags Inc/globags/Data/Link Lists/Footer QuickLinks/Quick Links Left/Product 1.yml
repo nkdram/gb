@@ -1,0 +1,22 @@
+﻿---
+ID: "cec0e227-5703-446a-a46c-78a55b9a5940"
+Parent: "a0b3af54-cd39-423c-9ff4-f2f693afd110"
+Template: "e24e0789-a058-48bf-abb6-c69c0e60b6b7"
+Path: /sitecore/content/Globags Inc/globags/Data/Link Lists/Footer QuickLinks/Quick Links Left/Product 1
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200801T000332Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "dd05144a-bd66-4ea3-956a-4b7104daaba3"
+      Hint: Link
+      Value: |
+        <link text="Product 1" anchor="" linktype="internal" class="" title=""  querystring="" id="{897422A4-43E4-4008-A24C-66741AE564B5}" />
