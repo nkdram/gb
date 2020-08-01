@@ -20,3 +20,7 @@ Languages:
       Hint: __Created by
       Value: |
         sitecore\admin
+    - ID: "ebe4fdef-16d5-4d19-833c-24a241628a3a"
+      Hint: Image
+      Value: |
+        <image mediaid="{62579DFE-728B-482A-934B-38BFCC56F690}" alt="Globags Logo" height="" width="" hspace="" vspace="" />

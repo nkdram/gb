@@ -3,8 +3,10 @@ Get-Content ".env" | foreach-object -begin {$settings=@{}} -process { $value = [
 # Creating required SSL certificates
 Write-Host "Creating required certificate..." -ForegroundColor Green
 Push-Location .\.docker\traefik\certs
-New-SelfSignedCertificate  -Subject "CN=${HOSTNAME_CM}" -Type CodeSigningCert -KeySpec "Signature" -KeyUsage "DigitalSignature" -FriendlyName "${HOSTNAME_CM}" -NotAfter (get-date).AddYears(5) 
-New-SelfSignedCertificate  -Subject "CN=${HOSTNAME_CD}" -Type CodeSigningCert -KeySpec "Signature" -KeyUsage "DigitalSignature" -FriendlyName "${HOSTNAME_CD}" -NotAfter (get-date).AddYears(5) 
+#New-SelfSignedCertificate -DnsName $settings.HOSTNAME_CM -CertStoreLocation cert:\LocalMachine\My
+#New-SelfSignedCertificate -DnsName $settings.HOSTNAME_CD -CertStoreLocation cert:\LocalMachine\My
+#New-SelfSignedCertificate  -Subject "CN=${HOSTNAME_CM}" -Type CodeSigningCert -KeySpec "Signature" -KeyUsage "DigitalSignature" -FriendlyName "${HOSTNAME_CM}" -NotAfter (get-date).AddYears(5) 
+#New-SelfSignedCertificate  -Subject "CN=${HOSTNAME_CD}" -Type CodeSigningCert -KeySpec "Signature" -KeyUsage "DigitalSignature" -FriendlyName "${HOSTNAME_CD}" -NotAfter (get-date).AddYears(5) 
 Pop-Location
 
 # Build all containers in the Sitecore instance, forcing a pull of latest base containers

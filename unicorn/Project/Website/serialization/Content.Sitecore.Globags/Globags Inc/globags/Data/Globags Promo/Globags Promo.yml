@@ -16,3 +16,7 @@ Languages:
       Hint: __Created by
       Value: |
         sitecore\admin
+    - ID: "b84f8b32-7a1f-4eae-ad4e-92e3719c2df0"
+      Hint: Promo Image
+      Value: |
+        <image mediaid="{4C4C6065-6E9F-428F-8F97-8BAEC5F5BB2B}" />

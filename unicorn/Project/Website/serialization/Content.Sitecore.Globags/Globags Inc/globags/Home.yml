@@ -6,6 +6,22 @@ Path: /sitecore/content/Globags Inc/globags/Home
 DB: master
 BranchID: "b90549b5-c997-4d6b-b102-c9ab82528974"
 SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{B7661847-B5A9-43D2-9399-0E31CC22FE32}"
+          s:ds="{4D88FCD7-4362-4F2C-B8B0-BC16758F102D}"
+          s:id="{F0A8A6E3-7D69-4A92-97CD-4F98804A7CB4}"
+          s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B4A020ED8-494F-4934-A579-8C8BBEC7277D%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+          s:ph="main" />
+      </d>
+    </r>
 - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
   Hint: __Originator
   Value: "{92EB9EFB-88D4-4089-82BE-AAD92D4FA24E}"
