@@ -1,0 +1,88 @@
+﻿---
+ID: "6acefa29-fdc7-4528-9c66-75b8d452c7b2"
+Parent: "6b3084c9-fea2-4c09-baeb-d038331cb54a"
+Template: "333fb57c-5bc0-4be9-aef2-fa0569bb93de"
+Path: /sitecore/content/Globags Inc/globags/Home/Products/Men Sneakers
+DB: master
+SharedFields:
+- ID: "27bad8c9-a21c-4ce7-be29-8545f58d7cc2"
+  Hint: Product ID
+  Value: xx5664as
+- ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+  Hint: SxaTags
+  Value: "{1134E2C7-67B7-4DD7-8453-A895B474CEBB}|{F50E895C-1357-442E-930E-F743C47B5500}|{001FD31C-77C7-47BD-9944-C13016279F17}"
+Languages:
+- Language: da
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200801T000201Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Product 1
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "ba792e7c-7352-419a-8dc9-65674c67e6b6"
+      Hint: Title
+      Value: Product 1
+- Language: "de-LU"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200801T000201Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Product 1
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "ba792e7c-7352-419a-8dc9-65674c67e6b6"
+      Hint: Title
+      Value: Product 1
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1a741924-ee29-4505-850e-fb3305c40996"
+      Hint: Product Image
+      Value: |
+        <image mediaid="{34379025-2475-4A6C-B211-DC26C08063C7}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200801T000201Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Men Sneakers
+    - ID: "7258e630-91ae-44f0-bf3c-95b9fca78889"
+      Hint: Product Description
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer faucibus urna quis aliquam sagittis. Ut vestibulum metus at lacus pretium bibendum. Nam id hendrerit tellus. Duis vulputate accumsan enim, in tincidunt eros accumsan eget. Vivamus vestibulum commodo est quis tincidunt. Sed tempor libero a ornare vehicula. Donec sed feugiat nibh. Aliquam pretium lorem ac risus mollis, non dapibus nibh faucibus.
+    - ID: "b01b18fc-10cd-4cb3-97a7-1098dad5731a"
+      Hint: Product Name
+      Value: Men Sneakers
+    - ID: "ba792e7c-7352-419a-8dc9-65674c67e6b6"
+      Hint: Title
+      Value: Men Sneakers
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200801T000201Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Product 1
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "ba792e7c-7352-419a-8dc9-65674c67e6b6"
+      Hint: Title
+      Value: Product 1

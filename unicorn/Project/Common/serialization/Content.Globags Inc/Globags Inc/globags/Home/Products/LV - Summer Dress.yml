@@ -1,13 +1,16 @@
 ﻿---
-ID: "722dd87a-32ab-48d3-968b-6223d3c59666"
+ID: "2139b495-dbd2-4266-ba16-48df55da48fb"
 Parent: "6b3084c9-fea2-4c09-baeb-d038331cb54a"
 Template: "333fb57c-5bc0-4be9-aef2-fa0569bb93de"
-Path: /sitecore/content/Globags Inc/globags/Home/Products/Product 2
+Path: "/sitecore/content/Globags Inc/globags/Home/Products/LV - Summer Dress"
 DB: master
 SharedFields:
+- ID: "27bad8c9-a21c-4ce7-be29-8545f58d7cc2"
+  Hint: Product ID
+  Value: ss545fd
 - ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
   Hint: SxaTags
-  Value: "{FEE282E8-E4A6-4FC7-BB32-226AC92309B9}|{ABC562BC-3123-440D-9774-AA1D78877A60}|{CFFBD533-B6AA-4D85-8760-5A37EDD3BD35}"
+  Value: "{75C75D3F-887A-4103-8F7E-AF0750706C57}|{0A2DE625-E84F-4876-9D8F-CF6051EA2E23}|{FEE282E8-E4A6-4FC7-BB32-226AC92309B9}"
 Languages:
 - Language: da
   Versions:
@@ -18,14 +21,14 @@ Languages:
       Value: 20200801T000201Z
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
-      Value: Product 2
+      Value: Product 3
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\admin
     - ID: "ba792e7c-7352-419a-8dc9-65674c67e6b6"
       Hint: Title
-      Value: Product 2
+      Value: Product 3
 - Language: "de-LU"
   Versions:
   - Version: 1
@@ -35,27 +38,37 @@ Languages:
       Value: 20200801T000201Z
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
-      Value: Product 2
+      Value: Product 3
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\admin
     - ID: "ba792e7c-7352-419a-8dc9-65674c67e6b6"
       Hint: Title
-      Value: Product 2
+      Value: Product 3
 - Language: en
   Versions:
   - Version: 1
     Fields:
+    - ID: "1a741924-ee29-4505-850e-fb3305c40996"
+      Hint: Product Image
+      Value: |
+        <image mediaid="{159BE097-E196-4215-A599-C3F4BA6CF06E}" />
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20200801T000201Z
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
-      Value: Product 2
+      Value: Product 3
+    - ID: "7258e630-91ae-44f0-bf3c-95b9fca78889"
+      Hint: Product Description
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent nibh sapien, lobortis sit amet est sit amet, suscipit vehicula massa. Proin at sollicitudin mi, vel condimentum neque. Donec at neque a diam malesuada ullamcorper. Fusce in sapien eu nisl consectetur gravida non eu velit. Vivamus placerat mi varius metus dictum semper.
+    - ID: "b01b18fc-10cd-4cb3-97a7-1098dad5731a"
+      Hint: Product Name
+      Value: "LV - Summer Dress"
     - ID: "ba792e7c-7352-419a-8dc9-65674c67e6b6"
       Hint: Title
-      Value: Product 2
+      Value: "LV - Summer Dress"
 - Language: "fr-FR"
   Versions:
   - Version: 1
@@ -65,11 +78,11 @@ Languages:
       Value: 20200801T000201Z
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
-      Value: Product 2
+      Value: Product 3
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\admin
     - ID: "ba792e7c-7352-419a-8dc9-65674c67e6b6"
       Hint: Title
-      Value: Product 2
+      Value: Product 3

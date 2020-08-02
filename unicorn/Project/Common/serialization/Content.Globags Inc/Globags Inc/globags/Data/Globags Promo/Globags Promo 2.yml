@@ -25,7 +25,7 @@ Languages:
     - ID: "b45c11d3-1d9e-4d26-864a-748e2b043470"
       Hint: Promo Link
       Value: |
-        <link linktype="internal" text="Check It Out !" title="Check It Out !" querystring="" target="" id="{722DD87A-32AB-48D3-968B-6223D3C59666}" />
+        <link id="{722DD87A-32AB-48D3-968B-6223D3C59666}" querystring="" text="Check It Out !" url="/Globags Inc/globags/Home/Products/LV Dress" title="Check It Out !" linktype="internal" target="" />
     - ID: "b84f8b32-7a1f-4eae-ad4e-92e3719c2df0"
       Hint: Promo Image
       Value: |
@@ -50,7 +50,7 @@ Languages:
     - ID: "b45c11d3-1d9e-4d26-864a-748e2b043470"
       Hint: Promo Link
       Value: |
-        <link linktype="internal" text="Check It Out !" title="Check It Out !" querystring="" target="" id="{722DD87A-32AB-48D3-968B-6223D3C59666}" />
+        <link id="{722DD87A-32AB-48D3-968B-6223D3C59666}" querystring="" text="Check It Out !" url="/Globags Inc/globags/Home/Products/LV Dress" title="Check It Out !" linktype="internal" target="" />
     - ID: "b84f8b32-7a1f-4eae-ad4e-92e3719c2df0"
       Hint: Promo Image
       Value: |
@@ -75,7 +75,7 @@ Languages:
     - ID: "b45c11d3-1d9e-4d26-864a-748e2b043470"
       Hint: Promo Link
       Value: |
-        <link linktype="internal" text="Check It Out !" title="Check It Out !" querystring="" target="" id="{722DD87A-32AB-48D3-968B-6223D3C59666}" />
+        <link id="{722DD87A-32AB-48D3-968B-6223D3C59666}" querystring="" text="Check It Out !" url="/Globags Inc/globags/Home/Products/LV Dress" title="Check It Out !" linktype="internal" target="" />
     - ID: "b84f8b32-7a1f-4eae-ad4e-92e3719c2df0"
       Hint: Promo Image
       Value: |
@@ -100,7 +100,7 @@ Languages:
     - ID: "b45c11d3-1d9e-4d26-864a-748e2b043470"
       Hint: Promo Link
       Value: |
-        <link linktype="internal" text="Check It Out !" title="Check It Out !" querystring="" target="" id="{722DD87A-32AB-48D3-968B-6223D3C59666}" />
+        <link id="{722DD87A-32AB-48D3-968B-6223D3C59666}" querystring="" text="Check It Out !" url="/Globags Inc/globags/Home/Products/LV Dress" title="Check It Out !" linktype="internal" target="" />
     - ID: "b84f8b32-7a1f-4eae-ad4e-92e3719c2df0"
       Hint: Promo Image
       Value: |

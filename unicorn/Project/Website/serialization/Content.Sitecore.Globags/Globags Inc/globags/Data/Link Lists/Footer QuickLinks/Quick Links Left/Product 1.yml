@@ -19,7 +19,7 @@ Languages:
     - ID: "dd05144a-bd66-4ea3-956a-4b7104daaba3"
       Hint: Link
       Value: |
-        <link text="Product 1" anchor="" linktype="internal" class="" title=""  querystring="" id="{897422A4-43E4-4008-A24C-66741AE564B5}" />
+        <link id="{897422A4-43E4-4008-A24C-66741AE564B5}" querystring="" text="Product 1" anchor="" title="" class="" url="/Globags Inc/globags/Home/Products/Wallet Men" linktype="internal" />
 - Language: "de-LU"
   Versions:
   - Version: 1
@@ -34,7 +34,7 @@ Languages:
     - ID: "dd05144a-bd66-4ea3-956a-4b7104daaba3"
       Hint: Link
       Value: |
-        <link text="Product 1" anchor="" linktype="internal" class="" title=""  querystring="" id="{897422A4-43E4-4008-A24C-66741AE564B5}" />
+        <link id="{897422A4-43E4-4008-A24C-66741AE564B5}" querystring="" text="Product 1" anchor="" title="" class="" url="/Globags Inc/globags/Home/Products/Wallet Men" linktype="internal" />
 - Language: en
   Versions:
   - Version: 1
@@ -49,7 +49,7 @@ Languages:
     - ID: "dd05144a-bd66-4ea3-956a-4b7104daaba3"
       Hint: Link
       Value: |
-        <link text="Product 1" anchor="" linktype="internal" class="" title=""  querystring="" id="{897422A4-43E4-4008-A24C-66741AE564B5}" />
+        <link id="{897422A4-43E4-4008-A24C-66741AE564B5}" querystring="" text="Product 1" anchor="" title="" class="" url="/Globags Inc/globags/Home/Products/Wallet Men" linktype="internal" />
 - Language: "fr-FR"
   Versions:
   - Version: 1
@@ -64,4 +64,4 @@ Languages:
     - ID: "dd05144a-bd66-4ea3-956a-4b7104daaba3"
       Hint: Link
       Value: |
-        <link text="Product 1" anchor="" linktype="internal" class="" title=""  querystring="" id="{897422A4-43E4-4008-A24C-66741AE564B5}" />
+        <link id="{897422A4-43E4-4008-A24C-66741AE564B5}" querystring="" text="Product 1" anchor="" title="" class="" url="/Globags Inc/globags/Home/Products/Wallet Men" linktype="internal" />

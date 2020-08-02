@@ -25,7 +25,7 @@ Languages:
     - ID: "b45c11d3-1d9e-4d26-864a-748e2b043470"
       Hint: Promo Link
       Value: |
-        <link text="Try it out" anchor="" linktype="internal" class="" title="Try it out"  querystring="" id="{897422A4-43E4-4008-A24C-66741AE564B5}" />
+        <link id="{897422A4-43E4-4008-A24C-66741AE564B5}" querystring="" text="Try it out" anchor="" title="Try it out" class="" url="/Globags Inc/globags/Home/Products/Wallet Men" linktype="internal" />
     - ID: "b84f8b32-7a1f-4eae-ad4e-92e3719c2df0"
       Hint: Promo Image
       Value: |
@@ -50,7 +50,7 @@ Languages:
     - ID: "b45c11d3-1d9e-4d26-864a-748e2b043470"
       Hint: Promo Link
       Value: |
-        <link text="Try it out" anchor="" linktype="internal" class="" title="Try it out"  querystring="" id="{897422A4-43E4-4008-A24C-66741AE564B5}" />
+        <link id="{897422A4-43E4-4008-A24C-66741AE564B5}" querystring="" text="Try it out" anchor="" title="Try it out" class="" url="/Globags Inc/globags/Home/Products/Wallet Men" linktype="internal" />
     - ID: "b84f8b32-7a1f-4eae-ad4e-92e3719c2df0"
       Hint: Promo Image
       Value: |
@@ -75,7 +75,7 @@ Languages:
     - ID: "b45c11d3-1d9e-4d26-864a-748e2b043470"
       Hint: Promo Link
       Value: |
-        <link text="Try it out" anchor="" linktype="internal" class="" title="Try it out"  querystring="" id="{897422A4-43E4-4008-A24C-66741AE564B5}" />
+        <link id="{897422A4-43E4-4008-A24C-66741AE564B5}" querystring="" text="Try it out" anchor="" title="Try it out" class="" url="/Globags Inc/globags/Home/Products/Wallet Men" linktype="internal" />
     - ID: "b84f8b32-7a1f-4eae-ad4e-92e3719c2df0"
       Hint: Promo Image
       Value: |
@@ -100,7 +100,7 @@ Languages:
     - ID: "b45c11d3-1d9e-4d26-864a-748e2b043470"
       Hint: Promo Link
       Value: |
-        <link text="Try it out" anchor="" linktype="internal" class="" title="Try it out"  querystring="" id="{897422A4-43E4-4008-A24C-66741AE564B5}" />
+        <link id="{897422A4-43E4-4008-A24C-66741AE564B5}" querystring="" text="Try it out" anchor="" title="Try it out" class="" url="/Globags Inc/globags/Home/Products/Wallet Men" linktype="internal" />
     - ID: "b84f8b32-7a1f-4eae-ad4e-92e3719c2df0"
       Hint: Promo Image
       Value: |
