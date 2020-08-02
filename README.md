@@ -4,21 +4,21 @@
 
 A sample solution created for a mock project &#39;Globags&#39; using Sitecore 9.3, Sxa 9.3, Sxa@Cli – Scriban, Unicorn and Docker. The solution is designed using Helix principals with automatic build that publishes files to mapped volumes. The Sitecore instances are created based on simple XM topology.
 
-![Home Page](https://https://github.com/nkdram/gb/images/homepage.png)
+![Home Page](https://github.com/nkdram/gb/blob/develop/images/Homepage.png)
 
 ## Summary :
 
 Aim of this project is to design a Sitecore solution using latest standard that can be easily used by multiple developers in a team using Docker. It is also to show case how SxA OOTB features can be used to design a website by creating custom Features, cloning components, creating custom rendering variants and using Scriban template engine.
 
-![Variants Page](https://https://github.com/nkdram/gb/images/Variants.png)
+![Variants Page](https://https://github.com/nkdram/gb/blob/develop/images/Variants.png)
 
 ##
 
-![Search Page](https://https://github.com/nkdram/gb/images/SearchPage.png)
+![Search Page](https://https://github.com/nkdram/gb/blob/develop/images/SearchPage.png)
 
 ##
 
-![Sxa Cli](https://https://github.com/nkdram/gb/images/Scriban.png)
+![Sxa Cli](https://https://github.com/nkdram/gb/blob/develop/images/Scriban.png)
 
 ## Pre-requisites
 
