@@ -75,6 +75,14 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Rules", "Rules", "{DE3E1086
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Globags.Foundation.Rules", "back-end\Foundation\Rules\website\Globags.Foundation.Rules.csproj", "{259F83EA-6A03-44B1-A000-2B4AD0D46862}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{5BEA1B68-1C62-4C3C-9898-0E520E67F7D3}"
+	ProjectSection(SolutionItems) = preProject
+		images\Homepage.png = images\Homepage.png
+		images\Scriban.png = images\Scriban.png
+		images\SearchPage.png = images\SearchPage.png
+		images\Variants.png = images\Variants.png
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -229,6 +237,7 @@ Global
 		{A0DD6322-3BB6-487E-8200-E2E05FBB15D1} = {9D5EFEBB-1F7D-4620-9701-E1A02FE54CBD}
 		{DE3E1086-CF64-45D2-BE81-5D9CAF7BFE39} = {845F33DF-D292-4F65-9E5C-F1D8CD4623D1}
 		{259F83EA-6A03-44B1-A000-2B4AD0D46862} = {DE3E1086-CF64-45D2-BE81-5D9CAF7BFE39}
+		{5BEA1B68-1C62-4C3C-9898-0E520E67F7D3} = {4555190C-894D-4AE1-9C73-3D3FD8428E26}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1B7AE59B-DBFA-4CA8-92FC-F35BD462DC3B}
