@@ -43,10 +43,17 @@ Aim of this project is to design a Sitecore solution using latest standard that 
 4. Stop IIS – or sites that use 443 port : This is important as the &quot;Traefik&quot; uses 443 port to route requests to above instances.
 5. Finally Run ./init.ps1 from Solution directory. This script pulls images from Registry and creates required instances as containers in local machine. Once this script completes , please access the cms site [https://globags.sc.cms/sitecore/login]
 **\*\* note – currently requests are only working with https – so please make sure https scheme is added while accessing the site.**
+6. Rebuild Sitecore indexes after login
+7. ** Importantly Sync Unicorn by accessing {cms_site}/unicorn.aspx during the first time ** - planning to do this using SPE
 
 ###
 
 ###
 
+
+## Known Issues
 
 ##
+
+1. After Sitecore login - sometimes it gets redirected to http: scheme and you might see a 404 message. This is because of http mapping that is missing. Please Update URL to https and reaccess it. It happens when you are on Launchpad or ContentEditor
+2. CD site sometimes show 404 error and the page doesn't seems to load - Again, I think it is related to wrong config. Please use CMS instance to preview page.
