@@ -1,0 +1,62 @@
+﻿---
+ID: "dc2097d7-cc06-4374-879e-eeb569f8e2e7"
+Parent: "c1820105-7171-48fb-8bf1-b2d5333ec698"
+Template: "81794974-2554-4790-85d8-efe58ba2ac97"
+Path: /sitecore/content/Globags Inc/globags/Presentation/Page Designs
+DB: master
+BranchID: "b90549b5-c997-4d6b-b102-c9ab82528974"
+SharedFields:
+- ID: "ba1f60d6-3deb-40cc-bb61-eec772279ee1"
+  Hint: TemplatesMapping
+  Value: "%7b25C452A7-7D5A-4B4E-B21D-6D2E7BE46C0E%7d%3d%257B311EF0B2-74AC-42A8-B5C0-D95BDC71672F%257D%26%7b382B06FC-03D4-4F61-A9BA-08887230C3BF%7d%3d%257BE2D180E6-F8B6-433A-9B97-E95D86B018CA%257D%26%7b235F17AC-61EC-448D-8957-1CF658797B50%7d%3d%257BE2D180E6-F8B6-433A-9B97-E95D86B018CA%257D%26%7b333FB57C-5BC0-4BE9-AEF2-FA0569BB93DE%7d%3d%257B460FA6B5-524C-466C-9EF2-43CA5A7FA5AE%257D%26%7b0BEFE816-ABED-4A40-874D-61E62CE57D53%7d%3d%257BBDD02CF8-1E7F-457C-9162-ABA13D4F4262%257D%26%7b101713E3-9562-4117-A4FF-39331772EF4B%7d%3d%257BBDD02CF8-1E7F-457C-9162-ABA13D4F4262%257D%26%7bBA9EE604-EF53-44A3-A995-E66E854BB34E%7d%3d%257B7C404287-B6D4-4D69-BA50-BC82E7F02D2A%257D"
+- ID: "c0c88e34-d7e6-46a0-b84f-b0a432d11642"
+  Hint: Theme
+  Value: "%7bFE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3%7d%3d%257B599782F9-A920-48A2-AD6A-421E8AEFDEE2%257D"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{5D5CE43E-D5C6-4C53-89BC-36285DDE8EC9}"
+Languages:
+- Language: da
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200728T132942Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: "de-LU"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200728T132942Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200728T132942Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200728T132942Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

@@ -1,0 +1,107 @@
+﻿---
+ID: "4d88fcd7-4362-4f2c-b8b0-bc16758f102d"
+Parent: "3e70cbfb-d0c7-4f16-9e52-1a7fe632b902"
+Template: "f0a19667-dd41-4971-9484-06997e4e3e8c"
+Path: /sitecore/content/Globags Inc/globags/Data/Globags Promo/Globags Promo
+DB: master
+Languages:
+- Language: da
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200731T225750Z
+    - ID: "2d0ef5a2-c752-4e35-8ae7-96b9f58bcd96"
+      Hint: Promo Header
+      Value: "JUST IN: THE NEW WAVE MULTI POCHETTE"
+    - ID: "5b5ed105-736e-482f-acbe-d81366033acb"
+      Hint: Promo Text
+      Value: Nullam mattis tempor lacus, a facilisis sem fringilla ac. Morbi eget condimentum ipsum, sit amet semper eros. Nam suscipit, lectus sit amet ultricies posuere, arcu leo molestie ligula, in eleifend quam lacus nec lacus. Ut non orci vel ante vestibulum tincidunt.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "b45c11d3-1d9e-4d26-864a-748e2b043470"
+      Hint: Promo Link
+      Value: |
+        <link text="Try it out" anchor="" linktype="internal" class="" title="Try it out"  querystring="" id="{897422A4-43E4-4008-A24C-66741AE564B5}" />
+    - ID: "b84f8b32-7a1f-4eae-ad4e-92e3719c2df0"
+      Hint: Promo Image
+      Value: |
+        <image mediaid="{4C4C6065-6E9F-428F-8F97-8BAEC5F5BB2B}" ></image>
+- Language: "de-LU"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200731T225750Z
+    - ID: "2d0ef5a2-c752-4e35-8ae7-96b9f58bcd96"
+      Hint: Promo Header
+      Value: "JUST IN: THE NEW WAVE MULTI POCHETTE"
+    - ID: "5b5ed105-736e-482f-acbe-d81366033acb"
+      Hint: Promo Text
+      Value: Nullam mattis tempor lacus, a facilisis sem fringilla ac. Morbi eget condimentum ipsum, sit amet semper eros. Nam suscipit, lectus sit amet ultricies posuere, arcu leo molestie ligula, in eleifend quam lacus nec lacus. Ut non orci vel ante vestibulum tincidunt.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "b45c11d3-1d9e-4d26-864a-748e2b043470"
+      Hint: Promo Link
+      Value: |
+        <link text="Try it out" anchor="" linktype="internal" class="" title="Try it out"  querystring="" id="{897422A4-43E4-4008-A24C-66741AE564B5}" />
+    - ID: "b84f8b32-7a1f-4eae-ad4e-92e3719c2df0"
+      Hint: Promo Image
+      Value: |
+        <image mediaid="{4C4C6065-6E9F-428F-8F97-8BAEC5F5BB2B}" ></image>
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200731T225750Z
+    - ID: "2d0ef5a2-c752-4e35-8ae7-96b9f58bcd96"
+      Hint: Promo Header
+      Value: "JUST IN: THE NEW WAVE MULTI POCHETTE"
+    - ID: "5b5ed105-736e-482f-acbe-d81366033acb"
+      Hint: Promo Text
+      Value: Nullam mattis tempor lacus, a facilisis sem fringilla ac. Morbi eget condimentum ipsum, sit amet semper eros. Nam suscipit, lectus sit amet ultricies posuere, arcu leo molestie ligula, in eleifend quam lacus nec lacus. Ut non orci vel ante vestibulum tincidunt.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "b45c11d3-1d9e-4d26-864a-748e2b043470"
+      Hint: Promo Link
+      Value: |
+        <link text="Try it out" anchor="" linktype="internal" class="" title="Try it out"  querystring="" id="{897422A4-43E4-4008-A24C-66741AE564B5}" />
+    - ID: "b84f8b32-7a1f-4eae-ad4e-92e3719c2df0"
+      Hint: Promo Image
+      Value: |
+        <image mediaid="{4C4C6065-6E9F-428F-8F97-8BAEC5F5BB2B}" ></image>
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200731T225750Z
+    - ID: "2d0ef5a2-c752-4e35-8ae7-96b9f58bcd96"
+      Hint: Promo Header
+      Value: "JUST IN: THE NEW WAVE MULTI POCHETTE"
+    - ID: "5b5ed105-736e-482f-acbe-d81366033acb"
+      Hint: Promo Text
+      Value: Nullam mattis tempor lacus, a facilisis sem fringilla ac. Morbi eget condimentum ipsum, sit amet semper eros. Nam suscipit, lectus sit amet ultricies posuere, arcu leo molestie ligula, in eleifend quam lacus nec lacus. Ut non orci vel ante vestibulum tincidunt.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "b45c11d3-1d9e-4d26-864a-748e2b043470"
+      Hint: Promo Link
+      Value: |
+        <link text="Try it out" anchor="" linktype="internal" class="" title="Try it out"  querystring="" id="{897422A4-43E4-4008-A24C-66741AE564B5}" />
+    - ID: "b84f8b32-7a1f-4eae-ad4e-92e3719c2df0"
+      Hint: Promo Image
+      Value: |
+        <image mediaid="{4C4C6065-6E9F-428F-8F97-8BAEC5F5BB2B}" ></image>

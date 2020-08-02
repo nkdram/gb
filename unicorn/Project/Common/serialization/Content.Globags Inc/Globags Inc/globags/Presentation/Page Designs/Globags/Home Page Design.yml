@@ -1,0 +1,54 @@
+﻿---
+ID: "311ef0b2-74ac-42a8-b5c0-d95bdc71672f"
+Parent: "dad427b6-60b8-4c21-9627-a61eea31e65d"
+Template: "b6fa51e2-3052-4f38-ba00-d8d6661c5042"
+Path: /sitecore/content/Globags Inc/globags/Presentation/Page Designs/Globags/Home Page Design
+DB: master
+SharedFields:
+- ID: "0966b999-0d0e-4278-acc9-9da69d461fe6"
+  Hint: PartialDesigns
+  Value: "{717672B7-BB66-4238-BB38-035404F52463}|{ACCA6373-AF6A-49EC-9F44-1E6D8E7088AF}|{38CD17AA-0706-4921-83B8-EFA163767252}"
+- ID: "7b487159-e180-4846-be49-e196e4c3a2b3"
+  Hint: Page Design Theme
+  Value: "{599782F9-A920-48A2-AD6A-421E8AEFDEE2}"
+Languages:
+- Language: da
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200801T102438Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: "de-LU"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200801T102438Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200801T102438Z
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200801T102438Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

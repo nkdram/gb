@@ -1,0 +1,87 @@
+﻿---
+ID: "6b3084c9-fea2-4c09-baeb-d038331cb54a"
+Parent: "c35bb089-5c2d-468a-babd-bc17fb221234"
+Template: "ba9ee604-ef53-44a3-a995-e66e854bb34e"
+Path: /sitecore/content/Globags Inc/globags/Home/Products
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: da
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0ea6a596-64c1-4965-8dc4-9ab3e93985a5"
+      Hint: Page Title
+      Value: Products
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200731T001032Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Products
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "ba792e7c-7352-419a-8dc9-65674c67e6b6"
+      Hint: Title
+      Value: Products
+- Language: "de-LU"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0ea6a596-64c1-4965-8dc4-9ab3e93985a5"
+      Hint: Page Title
+      Value: Products
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200731T001032Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Products
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "ba792e7c-7352-419a-8dc9-65674c67e6b6"
+      Hint: Title
+      Value: Products
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0ea6a596-64c1-4965-8dc4-9ab3e93985a5"
+      Hint: Page Title
+      Value: Products
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200731T001032Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Products
+    - ID: "ba792e7c-7352-419a-8dc9-65674c67e6b6"
+      Hint: Title
+      Value: Products
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0ea6a596-64c1-4965-8dc4-9ab3e93985a5"
+      Hint: Page Title
+      Value: Products
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200731T001032Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Products
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "ba792e7c-7352-419a-8dc9-65674c67e6b6"
+      Hint: Title
+      Value: Products

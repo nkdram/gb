@@ -1,0 +1,83 @@
+﻿---
+ID: "61ffc412-60b7-4d27-b889-0dfaf70e8a61"
+Parent: "52b216e0-407a-4d2e-a96f-7a672ce1dff6"
+Template: "bb8a85ab-1f6d-4518-8772-1c9f4f8dac18"
+Path: /sitecore/content/Globags Inc/globags/Presentation/Partial Designs/Common/Header/Data/Image 1
+DB: master
+Languages:
+- Language: da
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200728T192810Z
+    - ID: "54cab1ba-53d3-4ce4-ab7e-f8c17596aa47"
+      Hint: TargetUrl
+      Value: |
+        <link text="Home" anchor="" linktype="internal" class="" title="Home"  querystring="" id="{C35BB089-5C2D-468A-BABD-BC17FB221234}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "ebe4fdef-16d5-4d19-833c-24a241628a3a"
+      Hint: Image
+      Value: |
+        <image mediaid="{62579DFE-728B-482A-934B-38BFCC56F690}" alt="Globags Logo" height="" width="" hspace="" vspace="" />
+- Language: "de-LU"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200728T192810Z
+    - ID: "54cab1ba-53d3-4ce4-ab7e-f8c17596aa47"
+      Hint: TargetUrl
+      Value: |
+        <link text="Home" anchor="" linktype="internal" class="" title="Home"  querystring="" id="{C35BB089-5C2D-468A-BABD-BC17FB221234}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "ebe4fdef-16d5-4d19-833c-24a241628a3a"
+      Hint: Image
+      Value: |
+        <image mediaid="{62579DFE-728B-482A-934B-38BFCC56F690}" alt="Globags Logo" height="" width="" hspace="" vspace="" />
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200728T192810Z
+    - ID: "54cab1ba-53d3-4ce4-ab7e-f8c17596aa47"
+      Hint: TargetUrl
+      Value: |
+        <link text="Home" anchor="" linktype="internal" class="" title="Home"  querystring="" id="{C35BB089-5C2D-468A-BABD-BC17FB221234}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "ebe4fdef-16d5-4d19-833c-24a241628a3a"
+      Hint: Image
+      Value: |
+        <image mediaid="{62579DFE-728B-482A-934B-38BFCC56F690}" alt="Globags Logo" height="" width="" hspace="" vspace="" />
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200728T192810Z
+    - ID: "54cab1ba-53d3-4ce4-ab7e-f8c17596aa47"
+      Hint: TargetUrl
+      Value: |
+        <link text="Home" anchor="" linktype="internal" class="" title="Home"  querystring="" id="{C35BB089-5C2D-468A-BABD-BC17FB221234}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "ebe4fdef-16d5-4d19-833c-24a241628a3a"
+      Hint: Image
+      Value: |
+        <image mediaid="{62579DFE-728B-482A-934B-38BFCC56F690}" alt="Globags Logo" height="" width="" hspace="" vspace="" />

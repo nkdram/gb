@@ -1,0 +1,90 @@
+﻿---
+ID: "2f8b83b7-942b-4662-8025-575f5df1e69f"
+Parent: "163c7b3f-c5b3-4ea3-a267-a83f26522951"
+Template: "f4b3f2e4-ada6-4abd-9636-24996456daea"
+Path: /sitecore/content/Globags Inc/globags/Presentation/Partial Designs/Products/Product Search
+DB: master
+SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: "product-search"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{7C9B24ED-41E4-4488-935C-F5C61A4DD7B9}"
+          p:before="*"
+          s:ds="{1E35A1CF-275D-4326-B17C-5CDE0D327EFF}"
+          s:id="{51F98EDE-1FFE-4C36-9B29-C37435B8A048}"
+          s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;SearchSignature&amp;Styles&amp;RenderingIdentifier"
+          s:ph="/main/column-1-1" />
+        <r
+          uid="{8DBC6853-3053-458B-9661-46335061F40D}"
+          p:after="r[@uid='{7C9B24ED-41E4-4488-935C-F5C61A4DD7B9}']"
+          s:ds="{EA017A22-6A4A-4D3C-8DB0-46855AA63F12}"
+          s:id="{EECE4E4B-4E5F-42FD-A934-7AFD048AFD03}"
+          s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;SearchSignature&amp;FieldNames=%7B2DED2164-4382-4F21-8BD4-0A4E50CC777A%7D&amp;Styles&amp;TargetSignature&amp;Scope&amp;MaxPredictiveResultsCount=5&amp;DefaultLanguageFilter=%7B7AF59736-D91C-4AA1-8610-1202FDD31D68%7D&amp;SearchResultPage&amp;SearchTextBoxVisible=1&amp;SuggestionsMode=ShowSearchResults&amp;MinSuggestionsTriggerCharacterCount=2&amp;RenderingIdentifier&amp;DynamicPlaceholderId=6"
+          s:ph="/main/column-2-1/row-1-4" />
+        <r
+          uid="{31722ECD-F975-497D-97A1-905F7A94490A}"
+          p:after="r[@uid='{8DBC6853-3053-458B-9661-46335061F40D}']"
+          s:ds="{CD6E0CEB-7575-4883-98D0-94C44D59F7F0}"
+          s:id="{FAE0D244-55C1-4F1B-8ED5-590C9F131CEE}"
+          s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;SearchSignature&amp;FieldNames=%7B3E2C63BE-A1B7-4701-9365-137C0BECBB57%7D&amp;Styles&amp;Scope=%7B14DC5274-7E9B-44C0-9A5A-5A0B9CAEE397%7D&amp;PageSize=20&amp;DefaultLanguageFilter=%7B04C9B082-DE71-4035-8D16-737BF024FDE6%7D&amp;DefaultSortOrder&amp;AutoFireSearchWhenNoCriteriaSet&amp;RenderingIdentifier&amp;DynamicPlaceholderId=5"
+          s:ph="/main/column-2-1/row-2-4" />
+        <r
+          uid="{75147B74-7095-471D-AF62-D83B76190E52}"
+          p:after="r[@uid='{31722ECD-F975-497D-97A1-905F7A94490A}']"
+          s:ds="{6774A8C0-9B78-4B7B-8A2B-51AE85497336}"
+          s:id="{8B668FFA-D23C-43DB-A86F-D47D1D97090C}"
+          s:par="Reset Caching Options&amp;GridParameters={908E2BC6-C110-4ED7-AF39-7EEACBB31A34}&amp;SearchSignature&amp;Styles&amp;RenderingIdentifier"
+          s:ph="/main/column-2-1/row-2-4" />
+        <r
+          uid="{95E7358F-F57F-45D3-9A70-FBAF9D1C2C78}"
+          p:after="r[@uid='{75147B74-7095-471D-AF62-D83B76190E52}']"
+          s:id="{2DA9B139-FB9C-4FD7-BE84-CB066B2D7CC3}"
+          s:par="Reset Caching Options&amp;SplitterSize=2&amp;EnabledPlaceholders=1%2C2&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles8&amp;DynamicPlaceholderId=4"
+          s:ph="/main/column-2-1" />
+        <r
+          uid="{783AA639-6BB9-4FE0-BFB1-1D6507D13377}"
+          p:after="r[@uid='{95E7358F-F57F-45D3-9A70-FBAF9D1C2C78}']"
+          s:id="{8A3142A0-9688-461A-8C6F-5729BC064D35}"
+          s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B4904E6DE-1054-424B-95B6-4237C0264E0F%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=3"
+          s:ph="/main/column-1-1" />
+        <r
+          uid="{CC231C0C-4D6B-4859-92A2-A8C606FA215B}"
+          p:after="*[1=2]"
+          s:ds=""
+          s:id="{C25766C8-9AFD-4D28-87FE-147774F6806D}"
+          s:par="ColumnWidth1=%7B9AD9D6FB-28FC-43C5-8DA4-4A6A63CE802F%7D%7C%7BFA0DF184-71D5-4B37-BAB6-20C936E84FFA%7D&amp;ColumnWidth2=%7B9AD9D6FB-28FC-43C5-8DA4-4A6A63CE802F%7D%7C%7BE974E610-84AC-4A5E-8658-AD9D7F14B83F%7D&amp;ColumnWidth3&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;Reset Caching Options&amp;SplitterSize=2&amp;EnabledPlaceholders=1%2C2&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles8&amp;DynamicPlaceholderId=1"
+          s:ph="main" />
+      </d>
+    </r>
+Languages:
+- Language: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200801T230539Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200801T230235Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

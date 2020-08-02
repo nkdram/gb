@@ -1,0 +1,18 @@
+﻿---
+ID: "6c457605-2243-46f3-8102-b2d73531ddc1"
+Parent: "416393a4-67a9-4537-abd1-a079dc0c19a9"
+Template: "85adbf5b-e836-4932-a333-fe0f9fa1ed1e"
+Path: /sitecore/templates/Branches/Foundation/Globags Inc/Page
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200730T205945Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

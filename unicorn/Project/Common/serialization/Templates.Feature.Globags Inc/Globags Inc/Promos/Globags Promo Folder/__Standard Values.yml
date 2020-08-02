@@ -1,0 +1,25 @@
+﻿---
+ID: "b89dac06-18c5-4c08-aa4f-c2d26dd9d4c3"
+Parent: "fa4ed6a1-1f42-45a1-9e3f-765a6a75e1c7"
+Template: "fa4ed6a1-1f42-45a1-9e3f-765a6a75e1c7"
+Path: /sitecore/templates/Feature/Globags Inc/Promos/Globags Promo Folder/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {F0A19667-DD41-4971-9484-06997E4E3E8C}
+    {FA4ED6A1-1F42-45A1-9E3F-765A6A75E1C7}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120621T071605Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

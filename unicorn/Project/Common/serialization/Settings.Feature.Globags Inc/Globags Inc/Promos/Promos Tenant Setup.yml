@@ -1,0 +1,17 @@
+﻿---
+ID: "7c34d613-9c11-400f-b6da-c9d353e786a0"
+Parent: "25758337-2d52-4cb3-a720-136a6fc4fed9"
+Template: "141df88e-7156-4d2e-a004-c8c1a7c51e9d"
+Path: /sitecore/system/Settings/Feature/Globags Inc/Promos/Promos Tenant Setup
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200731T212513Z
+    - ID: "c202067e-7fab-4606-afb4-e76df2185ddc"
+      Hint: Name
+      Value: Promos

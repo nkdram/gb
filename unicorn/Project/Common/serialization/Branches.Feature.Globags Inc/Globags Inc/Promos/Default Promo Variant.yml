@@ -1,0 +1,18 @@
+﻿---
+ID: "4fb9d49a-170a-49b1-835d-7443ac2fddd6"
+Parent: "e7382fa5-1574-4716-9d07-979a229b3d53"
+Template: "35e75c72-4985-4e09-88c3-0eac6cd1e64f"
+Path: /sitecore/templates/Branches/Feature/Globags Inc/Promos/Default Promo Variant
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160818T065035Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

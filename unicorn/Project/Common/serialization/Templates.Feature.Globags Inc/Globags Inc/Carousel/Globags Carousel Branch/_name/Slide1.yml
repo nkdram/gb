@@ -1,0 +1,18 @@
+﻿---
+ID: "60a16ac7-7def-4dcf-ab55-a2b267acbad0"
+Parent: "d3327626-cdea-4049-abc8-c61aad8fb673"
+Template: "d613f89c-559c-45a9-9275-8de125e07313"
+Path: /sitecore/templates/Feature/Globags Inc/Carousel/Globags Carousel Branch/$name/Slide1
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170705T154223Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

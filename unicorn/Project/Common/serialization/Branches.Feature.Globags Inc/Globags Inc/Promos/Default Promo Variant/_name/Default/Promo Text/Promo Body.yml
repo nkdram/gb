@@ -1,0 +1,18 @@
+﻿---
+ID: "2a5715d6-fbe2-4b3c-a0e8-8fd9c5273f38"
+Parent: "a4593979-2b14-4163-b249-1c5b0f2b69f4"
+Template: "aca5c9a3-cda0-49b6-893f-1d4a7cb595b0"
+Path: /sitecore/templates/Branches/Feature/Globags Inc/Promos/Default Promo Variant/$name/Default/Promo Text/Promo Body
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160427T134835Z

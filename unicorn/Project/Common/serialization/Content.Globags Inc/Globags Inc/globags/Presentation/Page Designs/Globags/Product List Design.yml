@@ -1,0 +1,18 @@
+﻿---
+ID: "7c404287-b6d4-4d69-ba50-bc82e7f02d2a"
+Parent: "dad427b6-60b8-4c21-9627-a61eea31e65d"
+Template: "b6fa51e2-3052-4f38-ba00-d8d6661c5042"
+Path: /sitecore/content/Globags Inc/globags/Presentation/Page Designs/Globags/Product List Design
+DB: master
+SharedFields:
+- ID: "0966b999-0d0e-4278-acc9-9da69d461fe6"
+  Hint: PartialDesigns
+  Value: "{717672B7-BB66-4238-BB38-035404F52463}|{ACCA6373-AF6A-49EC-9F44-1E6D8E7088AF}|{2F8B83B7-942B-4662-8025-575F5DF1E69F}|{38CD17AA-0706-4921-83B8-EFA163767252}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200801T225733Z
