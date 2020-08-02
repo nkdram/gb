@@ -1,0 +1,14 @@
+﻿---
+ID: "9499f974-c3fc-4bab-9121-13536f2dd085"
+Parent: "eddfb76d-68e8-4b9a-a698-04300019ff41"
+Template: "25a6b824-672f-4c15-9b98-0b231c80f81c"
+Path: /sitecore/content/Globags Inc/globags/Data/Tags/Dealer Tags/Dealer Type
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200801T202303Z

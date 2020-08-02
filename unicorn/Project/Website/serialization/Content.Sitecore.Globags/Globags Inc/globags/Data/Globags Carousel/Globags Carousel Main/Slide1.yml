@@ -1,0 +1,43 @@
+﻿---
+ID: "9ef31791-6954-4e81-a03c-c3b9d9af2e02"
+Parent: "60f881de-8057-403d-a705-6b3584c991a8"
+Template: "d613f89c-559c-45a9-9275-8de125e07313"
+Path: /sitecore/content/Globags Inc/globags/Data/Globags Carousel/Globags Carousel Main/Slide1
+DB: master
+BranchID: "223838f2-17cf-4643-8bca-da3e300fc454"
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{B8AB7438-FF88-41A2-B0FD-493FB644E1B2}">
+        <r
+          ds=""
+          id="{8B0393E9-EE25-4F0B-A5FD-777B3AD2C737}"
+          par="FieldNames=%7B7C5FEDFB-F002-4136-99B0-5ED23040938B%7D&amp;Styles&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D"
+          ph="section-content"
+          uid="{EB8D6C98-4E68-48E8-B7F8-4BB9985BCDEE}" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{60A16AC7-7DEF-4DCF-AB55-A2B267ACBAD0}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200801T224639Z
+    - ID: "3c03d8c4-4146-4e4b-aa55-c334769e78b8"
+      Hint: SlideImage
+      Value: |
+        <image mediaid="{A7648A2B-8B18-4AF0-9120-8D71BB89C7D5}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

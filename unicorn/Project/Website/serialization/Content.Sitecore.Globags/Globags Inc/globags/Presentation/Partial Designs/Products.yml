@@ -1,0 +1,14 @@
+﻿---
+ID: "163c7b3f-c5b3-4ea3-a267-a83f26522951"
+Parent: "dfbc128f-4a75-4a15-b693-fc66b56b063c"
+Template: "01b598ae-bdd0-4f27-8576-2b6e6534f4a7"
+Path: /sitecore/content/Globags Inc/globags/Presentation/Partial Designs/Products
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200801T225806Z

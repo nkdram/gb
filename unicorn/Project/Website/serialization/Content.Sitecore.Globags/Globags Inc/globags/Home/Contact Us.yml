@@ -15,6 +15,46 @@ SharedFields:
   Hint: __Sortorder
   Value: 400
 Languages:
+- Language: da
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0ea6a596-64c1-4965-8dc4-9ab3e93985a5"
+      Hint: Page Title
+      Value: Contact Us
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200731T000841Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Contact Us
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "ba792e7c-7352-419a-8dc9-65674c67e6b6"
+      Hint: Title
+      Value: Contact Us
+- Language: "de-LU"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0ea6a596-64c1-4965-8dc4-9ab3e93985a5"
+      Hint: Page Title
+      Value: Contact Us
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200731T000841Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Contact Us
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "ba792e7c-7352-419a-8dc9-65674c67e6b6"
+      Hint: Title
+      Value: Contact Us
 - Language: en
   Versions:
   - Version: 1
@@ -28,6 +68,26 @@ Languages:
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
       Value: Contact Us
+    - ID: "ba792e7c-7352-419a-8dc9-65674c67e6b6"
+      Hint: Title
+      Value: Contact Us
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0ea6a596-64c1-4965-8dc4-9ab3e93985a5"
+      Hint: Page Title
+      Value: Contact Us
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200731T000841Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Contact Us
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
     - ID: "ba792e7c-7352-419a-8dc9-65674c67e6b6"
       Hint: Title
       Value: Contact Us

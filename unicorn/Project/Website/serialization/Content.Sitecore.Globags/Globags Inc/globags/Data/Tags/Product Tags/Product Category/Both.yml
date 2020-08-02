@@ -1,0 +1,17 @@
+﻿---
+ID: "9b89bc08-1c85-4c56-aeb3-6951f5b7a567"
+Parent: "e930b07e-1718-4763-abb1-9a864f861ad1"
+Template: "6b40e84c-8785-49fc-8a10-6bca862ff7ea"
+Path: /sitecore/content/Globags Inc/globags/Data/Tags/Product Tags/Product Category/Both
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200801T201526Z
+    - ID: "b8a8b6c9-4757-496b-9aae-5f46ff381563"
+      Hint: Title
+      Value: Both

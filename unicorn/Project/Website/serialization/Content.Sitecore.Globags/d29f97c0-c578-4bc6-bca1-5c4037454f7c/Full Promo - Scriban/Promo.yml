@@ -1,0 +1,42 @@
+﻿---
+ID: "6da299e4-52c4-43f8-a555-7d09d1dbf340"
+Parent: "7f1cbab7-1aa4-410c-a3e7-ebee03e223ad"
+Template: "8fcd3cfe-8b3b-423e-8176-6a7c72cb43fc"
+Path: "/sitecore/content/Globags Inc/globags/Presentation/Rendering Variants/Globags Promo/Full Promo - Scriban/Promo"
+DB: master
+SharedFields:
+- ID: "7b5b7e8d-e579-44aa-8174-d4594db0c2f9"
+  Hint: CssClass
+  Value: row
+- ID: "8a85a595-3298-4eb1-96dd-c882ee5802ae"
+  Hint: Tag
+  Value: 
+- ID: "936e68b4-5346-4adb-9b77-79771d0b40dc"
+  Hint: Template
+  Value: |
+    
+    <div class="container full-promo">
+    {{- if ( sc_raw i_item 'Promo Image' != "") -}}
+        {{ sc_field i_item 'Promo Image' [['style', 'width:100%;'], ['data-purpose', 'Promo Icon']] }}
+    {{ end -}}
+    <div class="centered field-promo-text">
+        <h2>
+            {{sc_field i_item "Promo Header"}}
+        </h2>
+        <div>
+            {{sc_field i_item "Promo Text"}}
+        </div>
+        <div class="link-button button-success field-promo-link">    
+            {{sc_field i_item "Promo Link"}}
+        </div>
+    </div>
+    </div>
+    
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200801T210608Z

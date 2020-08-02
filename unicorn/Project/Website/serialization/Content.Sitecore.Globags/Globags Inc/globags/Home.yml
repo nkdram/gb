@@ -10,22 +10,65 @@ SharedFields:
   Hint: __Renderings
   Type: layout
   Value: |
-    <r xmlns:p="p" xmlns:s="s"
-      p:p="1">
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
       <d
-        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{BCFC7537-EFF4-434C-96F5-BF4F55FD175B}">
         <r
-          uid="{B7661847-B5A9-43D2-9399-0E31CC22FE32}"
-          s:ds="{4D88FCD7-4362-4F2C-B8B0-BC16758F102D}"
-          s:id="{F0A8A6E3-7D69-4A92-97CD-4F98804A7CB4}"
-          s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B4A020ED8-494F-4934-A579-8C8BBEC7277D%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
-          s:ph="main" />
+          ds="{4D88FCD7-4362-4F2C-B8B0-BC16758F102D}"
+          id="{F0A8A6E3-7D69-4A92-97CD-4F98804A7CB4}"
+          par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B7F1CBAB7-1AA4-410C-A3E7-EBEE03E223AD%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+          ph="main"
+          uid="{96589ECA-4B6C-48C9-BAB9-D30FC78EBD19}" />
+        <r
+          ds="{37056631-BB4B-41A7-B1FD-3387957850ED}"
+          id="{F0A8A6E3-7D69-4A92-97CD-4F98804A7CB4}"
+          par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B561B0DE0-FED8-4625-B223-B2596E6AB1D7%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=2"
+          ph="main"
+          uid="{47493CF1-A0F1-4234-A4E0-E8D9D954AA2E}" />
       </d>
+      <d
+        id="{0B4A31C9-712D-4578-A396-2DDC0F34B63A}"
+        l="{72C595AD-68BB-44BC-B5CD-2A857039515F}" />
     </r>
 - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
   Hint: __Originator
   Value: "{92EB9EFB-88D4-4089-82BE-AAD92D4FA24E}"
 Languages:
+- Language: da
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200728T132942Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: globags
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "ba792e7c-7352-419a-8dc9-65674c67e6b6"
+      Hint: Title
+      Value: globags
+- Language: "de-LU"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200728T132942Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: globags
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "ba792e7c-7352-419a-8dc9-65674c67e6b6"
+      Hint: Title
+      Value: globags
 - Language: en
   Versions:
   - Version: 1
@@ -36,6 +79,23 @@ Languages:
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
       Value: globags
+    - ID: "ba792e7c-7352-419a-8dc9-65674c67e6b6"
+      Hint: Title
+      Value: globags
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200728T132942Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: globags
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
     - ID: "ba792e7c-7352-419a-8dc9-65674c67e6b6"
       Hint: Title
       Value: globags

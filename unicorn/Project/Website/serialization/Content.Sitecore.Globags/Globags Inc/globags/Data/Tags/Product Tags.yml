@@ -1,0 +1,14 @@
+﻿---
+ID: "55731d68-50e8-4d4e-b0f1-e5d92a3d54d4"
+Parent: "6014907f-bc5d-46c2-8cdc-253887cd42f1"
+Template: "25a6b824-672f-4c15-9b98-0b231c80f81c"
+Path: /sitecore/content/Globags Inc/globags/Data/Tags/Product Tags
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200801T202212Z

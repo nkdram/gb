@@ -1,0 +1,17 @@
+
+<div class="container full-promo">
+{{- if ( sc_raw i_item 'Promo Image' != "") -}}
+    {{ sc_field i_item 'Promo Image' [['style', 'width:100%;'], ['data-purpose', 'Promo Icon']] }}
+{{ end -}}
+<div class="centered field-promo-text">
+    <h2>
+        {{sc_field i_item "Promo Header"}}
+    </h2>
+    <div>
+        {{sc_field i_item "Promo Text"}}
+    </div>
+    <div class="link-button button-success field-promo-link">    
+        {{sc_field i_item "Promo Link"}}
+    </div>
+</div>
+</div>

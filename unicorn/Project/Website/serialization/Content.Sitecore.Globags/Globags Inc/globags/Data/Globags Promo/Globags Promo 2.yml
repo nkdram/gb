@@ -1,0 +1,107 @@
+﻿---
+ID: "37056631-bb4b-41a7-b1fd-3387957850ed"
+Parent: "3e70cbfb-d0c7-4f16-9e52-1a7fe632b902"
+Template: "f0a19667-dd41-4971-9484-06997e4e3e8c"
+Path: /sitecore/content/Globags Inc/globags/Data/Globags Promo/Globags Promo 2
+DB: master
+Languages:
+- Language: da
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200801T194800Z
+    - ID: "2d0ef5a2-c752-4e35-8ae7-96b9f58bcd96"
+      Hint: Promo Header
+      Value: KICKING BACK
+    - ID: "5b5ed105-736e-482f-acbe-d81366033acb"
+      Hint: Promo Text
+      Value: Praesent aliquet nibh vitae aliquet pharetra. Donec auctor, erat lobortis vulputate venenatis, tellus nibh congue ante, vel varius erat turpis sed augue. Aenean et pulvinar augue. Nam eu interdum quam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "b45c11d3-1d9e-4d26-864a-748e2b043470"
+      Hint: Promo Link
+      Value: |
+        <link linktype="internal" text="Check It Out !" title="Check It Out !" querystring="" target="" id="{722DD87A-32AB-48D3-968B-6223D3C59666}" />
+    - ID: "b84f8b32-7a1f-4eae-ad4e-92e3719c2df0"
+      Hint: Promo Image
+      Value: |
+        <image mediaid="{E8B1CE4D-0C4C-445C-8551-C5E19CB313F7}" />
+- Language: "de-LU"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200801T194800Z
+    - ID: "2d0ef5a2-c752-4e35-8ae7-96b9f58bcd96"
+      Hint: Promo Header
+      Value: KICKING BACK
+    - ID: "5b5ed105-736e-482f-acbe-d81366033acb"
+      Hint: Promo Text
+      Value: Praesent aliquet nibh vitae aliquet pharetra. Donec auctor, erat lobortis vulputate venenatis, tellus nibh congue ante, vel varius erat turpis sed augue. Aenean et pulvinar augue. Nam eu interdum quam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "b45c11d3-1d9e-4d26-864a-748e2b043470"
+      Hint: Promo Link
+      Value: |
+        <link linktype="internal" text="Check It Out !" title="Check It Out !" querystring="" target="" id="{722DD87A-32AB-48D3-968B-6223D3C59666}" />
+    - ID: "b84f8b32-7a1f-4eae-ad4e-92e3719c2df0"
+      Hint: Promo Image
+      Value: |
+        <image mediaid="{E8B1CE4D-0C4C-445C-8551-C5E19CB313F7}" />
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200801T194800Z
+    - ID: "2d0ef5a2-c752-4e35-8ae7-96b9f58bcd96"
+      Hint: Promo Header
+      Value: KICKING BACK
+    - ID: "5b5ed105-736e-482f-acbe-d81366033acb"
+      Hint: Promo Text
+      Value: Praesent aliquet nibh vitae aliquet pharetra. Donec auctor, erat lobortis vulputate venenatis, tellus nibh congue ante, vel varius erat turpis sed augue. Aenean et pulvinar augue. Nam eu interdum quam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "b45c11d3-1d9e-4d26-864a-748e2b043470"
+      Hint: Promo Link
+      Value: |
+        <link linktype="internal" text="Check It Out !" title="Check It Out !" querystring="" target="" id="{722DD87A-32AB-48D3-968B-6223D3C59666}" />
+    - ID: "b84f8b32-7a1f-4eae-ad4e-92e3719c2df0"
+      Hint: Promo Image
+      Value: |
+        <image mediaid="{E8B1CE4D-0C4C-445C-8551-C5E19CB313F7}" />
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200801T194800Z
+    - ID: "2d0ef5a2-c752-4e35-8ae7-96b9f58bcd96"
+      Hint: Promo Header
+      Value: KICKING BACK
+    - ID: "5b5ed105-736e-482f-acbe-d81366033acb"
+      Hint: Promo Text
+      Value: Praesent aliquet nibh vitae aliquet pharetra. Donec auctor, erat lobortis vulputate venenatis, tellus nibh congue ante, vel varius erat turpis sed augue. Aenean et pulvinar augue. Nam eu interdum quam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "b45c11d3-1d9e-4d26-864a-748e2b043470"
+      Hint: Promo Link
+      Value: |
+        <link linktype="internal" text="Check It Out !" title="Check It Out !" querystring="" target="" id="{722DD87A-32AB-48D3-968B-6223D3C59666}" />
+    - ID: "b84f8b32-7a1f-4eae-ad4e-92e3719c2df0"
+      Hint: Promo Image
+      Value: |
+        <image mediaid="{E8B1CE4D-0C4C-445C-8551-C5E19CB313F7}" />
