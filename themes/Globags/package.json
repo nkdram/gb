@@ -84,7 +84,7 @@
     "path": "^0.12.7",
     "request": "^2.81.0",
     "rimraf": "^2.6.2",
-    "urllib": "^2.22.0"
+    "urllib": "^2.38.1"
   },
   "deprecated": false,
   "description": "SXA Theme",
